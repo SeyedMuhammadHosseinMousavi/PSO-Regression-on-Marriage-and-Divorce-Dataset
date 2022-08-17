@@ -86,7 +86,7 @@ cost=BestCost;
 
 % Plot
 plot(BestCost,'-oy', 'LineWidth', 2);
-xlabel('Bees Iteration');
+xlabel(' Iteration');
 ylabel('Best Cost Value');
 ax = gca; 
 ax.FontSize = 12; 
