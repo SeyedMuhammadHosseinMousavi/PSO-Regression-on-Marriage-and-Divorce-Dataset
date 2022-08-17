@@ -44,4 +44,5 @@ The target is Divorce Probability.
 
 Relevant Paper or Citation Request:
 Mousavi, S. M. H., MiriNezhad, S. Y., & Lyashenko, V, An evolutionary-based adaptive Neuro-fuzzy expert system as a family counselor before marriage with the aim of divorce rate reduction, 2nd International Conference on Research Knowledge Base in Computer, Tehran, Iran, (2017).
-![Marriage_Divorce_DB](https://user-images.githubusercontent.com/11339420/184501585-b39dd28c-9985-49e0-8ad9-0d7dd213f360.jpg)
+![Marriage_Divorce_DB](https://user-images.githubusercontent.com/11339420/185065646-40e7f146-61fc-4421-a866-3e41f345995f.jpg)
+
